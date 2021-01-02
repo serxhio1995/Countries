@@ -25,7 +25,7 @@ https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brindia Mo" tvg-logo="https://i.imgur.com/iSNhxeD.png" group-title="ITALY",Brindia Mo
 https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Cafè 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/Ta05IbG.jpg",Cafè 24
+#EXTINF:-1 tvg-name="CafÃ¨ 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/Ta05IbG.jpg",CafÃ¨ 24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 2" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/nlcGron.jpg",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
@@ -171,7 +171,7 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-name="RAI Südtirol" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/Igx6Cja.png",RAI Südtirol
+#EXTINF:-1 tvg-name="RAI SÃ¼dtirol" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/Igx6Cja.png",RAI SÃ¼dtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
@@ -321,3 +321,4 @@ https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/chun
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yvii TV Sicilia" tvg-logo="https://i.imgur.com/NaEgFUJ.png" group-title="ITALY",Yvii TV Sicilia
 https://yviistreamer.kernel.online/hls/yviitv.m3u8
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
